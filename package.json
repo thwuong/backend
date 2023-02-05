@@ -1,9 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "repository": {
-    "url": "https://github.com/thwuong/foundandlost.git"
-  },
   "description": "luan van tot nghiep",
   "main": "server.js",
   "scripts": {
